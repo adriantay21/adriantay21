@@ -1,5 +1,5 @@
-# 💫 About Me:
-hi
+# 📈 About Me:
+Hello, I am Adrian. I am a data analyst passionate about tech, finance, and building LLM applications.
 
 
 # 💻 Tech Stack:
@@ -11,5 +11,3 @@ hi
 
 ---
 [![](https://visitcount.itsvg.in/api?id=adriantay21&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
