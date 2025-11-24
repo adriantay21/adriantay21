@@ -2,7 +2,7 @@
 Hello, I am Adrian. I am a data analyst passionate about tech, finance, and building LLM applications.
 
 # 🌐 Personal Portfolio:
-[![Static Badge](https://img.shields.io/badge/www.adriantay.info-00FFFF)](http://www.adriantay.info)
+[![Static Badge](https://img.shields.io/badge/www.adriantay.info-00FFFF)](http://www.adriantay.cv)
 
 
 # 💻 Tech Stack:
